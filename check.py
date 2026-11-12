@@ -3,7 +3,7 @@
 """Проверка прокси: тянет все источники, TCP-пингует каждый (30 потоков),
 топ-50 по скорости пишет в verified.json. Без Telethon — источники ee (FakeTLS)."""
 import socket, json, io, os, re, time, datetime, urllib.request
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 MONTHS = ["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"]
