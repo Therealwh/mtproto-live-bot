@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=207pana.denatara.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-12T22:00:54+03:00"
- },
- {
-  "link": "tg://proxy?server=46.224.148.217&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-  "at": "2026-11-12T22:00:54+03:00"
- },
- {
-  "link": "tg://proxy?server=148.251.126.254&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-  "at": "2026-11-12T22:00:54+03:00"
- },
- {
-  "link": "tg://proxy?server=155.133.23.254&port=443&secret=eee8277a17e556102934f361d7ca7fc87e636c6f7564666c6172652e636f6d",
-  "at": "2026-11-12T22:00:54+03:00"
- },
- {
   "link": "tg://proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
   "at": "2026-11-12T22:30:43+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=he.fi.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
   "at": "2026-11-13T02:00:53+03:00"
+ },
+ {
+  "link": "tg://proxy?server=strait-of-hormuz.ir.jursdheks.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d",
+  "at": "2026-11-13T02:30:46+03:00"
+ },
+ {
+  "link": "tg://proxy?server=jiko-pok.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+  "at": "2026-11-13T02:30:46+03:00"
+ },
+ {
+  "link": "tg://proxy?server=chabahar.ir.khdhdjyfdjhy.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d",
+  "at": "2026-11-13T02:30:46+03:00"
+ },
+ {
+  "link": "tg://proxy?server=best.ping.ir.hdhdhfdrde.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d",
+  "at": "2026-11-13T02:30:46+03:00"
  }
 ]
