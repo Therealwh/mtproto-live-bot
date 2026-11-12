@@ -30,10 +30,11 @@ if len(verified) < 4:
     print("SKIP: живых прокси меньше 4 — пост не публикуем")
     sys.exit(0)
 
-candidates = [p for p in verified if p["link"] not in used]
-ee = [p for p in candidates if p.get("fake")]  # FakeTLS — выживает при DPI
+ee = [p for p in verified if p.get("fake") and p["link"] not in used]  # только FakeTLS
 if len(ee) >= 4:
     candidates = ee
+else:
+    candidates = [p for p in verified if p["link"] not in used]
 if len(candidates) < 4:
     candidates = verified[:]  # всё уже использовали — сбрасываем ротацию
 pick = random.sample(candidates, 4)
