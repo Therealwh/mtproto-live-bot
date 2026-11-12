@@ -105,8 +105,11 @@ print("MTProto-проверка: ee ok/fail=%d/%d dd ok/fail=%d/%d classic ok/fa
 print("живых (настоящий хендшейк):", len(verified))
 
 # история живости: серии «🟢 жив Nч» для постов (proxy_history.json)
+proxies_out = [{"server": v["server"], "port": v["port"], "secret": v["secret"],
+                "fake": v["secret"].lower().startswith("ee"), "check": v["check"], "ms": v["ms"],
+                "link": f"tg://proxy?server={v['server']}&port={v['port']}&secret={v['secret']}"} for v in verified]
 hist = proxy_history.load(ROOT)
-proxy_history.update(hist, verified)
+proxy_history.update(hist, proxies_out)
 proxy_history.save(ROOT, hist)
 
 # --- 4. verified.json ---
@@ -118,9 +121,7 @@ out = {
     "tcp_alive": len(alive),
     "alive": len(verified),
     "sources": src_stats,
-    "proxies": [{"server": v["server"], "port": v["port"], "secret": v["secret"],
-                 "fake": v["secret"].lower().startswith("ee"), "check": v["check"], "ms": v["ms"],
-                 "link": f"tg://proxy?server={v['server']}&port={v['port']}&secret={v['secret']}"} for v in verified],
+    "proxies": proxies_out,
 }
 io.open(os.path.join(ROOT, "verified.json"), "w", encoding="utf-8", newline="\n").write(json.dumps(out, ensure_ascii=False, indent=1))
 
