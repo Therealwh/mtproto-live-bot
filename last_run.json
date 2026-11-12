@@ -1,14 +1,14 @@
 {
- "time": "2026-11-13T02:24:54+03:00",
+ "time": "2026-11-13T02:27:00+03:00",
  "date_ru": "13 ноября 2026",
- "time_hm": "02:24",
+ "time_hm": "02:27",
  "sources_ok": 3,
  "sources_total": 3,
  "checked": 926,
- "tcp_alive": 913,
- "alive": 552,
+ "tcp_alive": 914,
+ "alive": 569,
  "mtproto": {
-  "ee": 424,
+  "ee": 441,
   "dd": 56,
   "classic": 72,
   "bad": 55
