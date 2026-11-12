@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """Проверка прокси: тянет все источники, TCP-пингует каждый (30 потоков),
 топ-50 по скорости пишет в verified.json. Без Telethon — источники ee (FakeTLS)."""
-import socket, json, io, os, re, time, datetime, urllib.request
+import socket, json, io, os, re, time, random, datetime, urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -58,8 +58,8 @@ with ThreadPoolExecutor(max_workers=30) as ex:
         r = f.result()
         if r:
             alive.append(r)
-alive.sort(key=lambda x: x["ms"])
-verified = alive[:50]
+random.shuffle(alive)
+verified = alive[:]  # весь пул, случайный порядок
 print("живых:", len(alive), "| в verified (топ по скорости):", len(verified))
 
 # --- 3. verified.json ---
