@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T20:45:23+03:00",
+ "updated": "2026-11-12T20:50:54+03:00",
  "checked": 925,
- "alive": 905,
+ "alive": 906,
  "sources": [
   {
    "source": "https://savagebuilderfall52.github.io/",
@@ -21,35 +21,11 @@
  ],
  "proxies": [
   {
-   "server": "172.65.132.110",
-   "port": 25565,
-   "secret": "1603010200010001fc031386e24c3add",
-   "fake": false,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.132.110&port=25565&secret=1603010200010001fc031386e24c3add"
-  },
-  {
-   "server": "172.65.158.199",
-   "port": 25565,
-   "secret": "dd6321048187495dfac59a030220c25d8e",
-   "fake": false,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.158.199&port=25565&secret=dd6321048187495dfac59a030220c25d8e"
-  },
-  {
-   "server": "172.65.100.05",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-   "fake": true,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.100.05&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
    "server": "172.65.97.063",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
    "fake": true,
-   "ms": 6,
+   "ms": 1,
    "link": "tg://proxy?server=172.65.97.063&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
@@ -57,111 +33,63 @@
    "port": 25565,
    "secret": "dd79e344818749bd7ac519130220c25d09",
    "fake": false,
-   "ms": 6,
+   "ms": 1,
    "link": "tg://proxy?server=172.65.135.233&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "172.65.105.80",
-   "port": 25565,
-   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-   "fake": true,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "172.65.105.152",
-   "port": 25565,
-   "secret": "1603010200010001fc031386e24c3add",
+   "server": "172.65.134.209",
+   "port": 3389,
+   "secret": "dd104462821249bd7ac519130220c25d09",
    "fake": false,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.105.152&port=25565&secret=1603010200010001fc031386e24c3add"
+   "ms": 1,
+   "link": "tg://proxy?server=172.65.134.209&port=3389&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "172.65.154.197",
    "port": 3389,
    "secret": "dd104462821249bd7ac519130220c25d09",
    "fake": false,
-   "ms": 6,
+   "ms": 1,
    "link": "tg://proxy?server=172.65.154.197&port=3389&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "172.65.151.218",
-   "port": 3389,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "fake": false,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.151.218&port=3389&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.137.149",
-   "port": 25565,
-   "secret": "dd79e344818749bd7ac519130220c25d09",
-   "fake": false,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.137.149&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.136.124",
-   "port": 22,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "fake": false,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.136.124&port=22&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.62.96",
-   "port": 49955,
-   "secret": "79e344818749bd7ac519130220c25d09",
-   "fake": false,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.62.96&port=49955&secret=79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.151.172",
-   "port": 25565,
-   "secret": "79e344818749bd7ac519130220c25d09",
-   "fake": false,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.151.172&port=25565&secret=79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.135.177",
-   "port": 25565,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "fake": false,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.135.177&port=25565&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.146.240",
-   "port": 25565,
-   "secret": "dd79e344818749bd7ac519130220c25d09",
-   "fake": false,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.146.240&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.97.7",
-   "port": 22,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+   "server": "172.65.38.26",
+   "port": 9443,
+   "secret": "ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267",
    "fake": true,
-   "ms": 6,
-   "link": "tg://proxy?server=172.65.97.7&port=22&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+   "ms": 1,
+   "link": "tg://proxy?server=172.65.38.26&port=9443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267"
   },
   {
-   "server": "172.65.119.133",
+   "server": "172.65.158.167",
    "port": 25565,
-   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+   "secret": "dd6321048187495dfac59a030220c25d8e",
+   "fake": false,
+   "ms": 1,
+   "link": "tg://proxy?server=172.65.158.167&port=25565&secret=dd6321048187495dfac59a030220c25d8e"
+  },
+  {
+   "server": "172.65.125.91",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
    "fake": true,
-   "ms": 7,
-   "link": "tg://proxy?server=172.65.119.133&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+   "ms": 1,
+   "link": "tg://proxy?server=172.65.125.91&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "172.65.113.134",
+   "port": 22,
+   "secret": "00000000000000000000000000000000",
+   "fake": false,
+   "ms": 2,
+   "link": "tg://proxy?server=172.65.113.134&port=22&secret=00000000000000000000000000000000"
   },
   {
    "server": "172.65.102.115",
    "port": 22,
    "secret": "dd79e344818749bd7ac519130220c25d09",
    "fake": false,
-   "ms": 7,
+   "ms": 2,
    "link": "tg://proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
@@ -169,95 +97,111 @@
    "port": 3389,
    "secret": "dd104462821249bd7ac519139920c25d09",
    "fake": false,
-   "ms": 7,
+   "ms": 2,
    "link": "tg://proxy?server=172.65.149.226&port=3389&secret=dd104462821249bd7ac519139920c25d09"
+  },
+  {
+   "server": "172.65.158.199",
+   "port": 25565,
+   "secret": "dd6321048187495dfac59a030220c25d8e",
+   "fake": false,
+   "ms": 2,
+   "link": "tg://proxy?server=172.65.158.199&port=25565&secret=dd6321048187495dfac59a030220c25d8e"
   },
   {
    "server": "172.65.186.19",
    "port": 443,
    "secret": "ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267",
    "fake": true,
-   "ms": 7,
+   "ms": 2,
    "link": "tg://proxy?server=172.65.186.19&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267"
+  },
+  {
+   "server": "172.65.96.123",
+   "port": 25565,
+   "secret": "79e344818749bd7ac519130220c25d090b58d91b9e595add185b995d0b98dbdb59985c985ad85d8b98dbdb5d985b8b9b985a9d984b98dbdb400000000000000000000000000000000000000000000000",
+   "fake": false,
+   "ms": 2,
+   "link": "tg://proxy?server=172.65.96.123&port=25565&secret=79e344818749bd7ac519130220c25d090b58d91b9e595add185b995d0b98dbdb59985c985ad85d8b98dbdb5d985b8b9b985a9d984b98dbdb400000000000000000000000000000000000000000000000"
   },
   {
    "server": "172.65.104.042",
    "port": 25565,
    "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
    "fake": true,
-   "ms": 7,
+   "ms": 2,
    "link": "tg://proxy?server=172.65.104.042&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "172.65.138.55",
+   "port": 25565,
+   "secret": "dd79e344818749bd7ac519130220c25d09",
+   "fake": false,
+   "ms": 2,
+   "link": "tg://proxy?server=172.65.138.55&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "server": "172.65.151.218",
+   "port": 3389,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "fake": false,
+   "ms": 2,
+   "link": "tg://proxy?server=172.65.151.218&port=3389&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "172.65.113.247",
    "port": 25565,
    "secret": "ee79e344818749bd7ac519130220c25d09",
    "fake": true,
-   "ms": 7,
+   "ms": 2,
    "link": "tg://proxy?server=172.65.113.247&port=25565&secret=ee79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "172.65.38.26",
-   "port": 9443,
-   "secret": "ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267",
+   "server": "172.65.137.149",
+   "port": 25565,
+   "secret": "dd79e344818749bd7ac519130220c25d09",
+   "fake": false,
+   "ms": 2,
+   "link": "tg://proxy?server=172.65.137.149&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "server": "172.65.117.172",
+   "port": 22,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
    "fake": true,
-   "ms": 7,
-   "link": "tg://proxy?server=172.65.38.26&port=9443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267"
+   "ms": 2,
+   "link": "tg://proxy?server=172.65.117.172&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
   },
   {
-   "server": "172.65.114.183",
-   "port": 25565,
-   "secret": "79e344818749bd7ac519130220c25d09",
+   "server": "172.65.136.124",
+   "port": 22,
+   "secret": "dd104462821249bd7ac519130220c25d09",
    "fake": false,
-   "ms": 7,
-   "link": "tg://proxy?server=172.65.114.183&port=25565&secret=79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.158.167",
-   "port": 25565,
-   "secret": "dd6321048187495dfac59a030220c25d8e",
-   "fake": false,
-   "ms": 7,
-   "link": "tg://proxy?server=172.65.158.167&port=25565&secret=dd6321048187495dfac59a030220c25d8e"
+   "ms": 2,
+   "link": "tg://proxy?server=172.65.136.124&port=22&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
    "server": "172.65.131.91",
    "port": 25565,
    "secret": "ee79e344818749bd7ac519130220c25d09",
    "fake": true,
-   "ms": 7,
+   "ms": 2,
    "link": "tg://proxy?server=172.65.131.91&port=25565&secret=ee79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "172.65.108.204",
-   "port": 22,
-   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-   "fake": true,
-   "ms": 7,
-   "link": "tg://proxy?server=172.65.108.204&port=22&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
-  },
-  {
-   "server": "172.65.96.63",
+   "server": "172.65.134.131",
    "port": 25565,
    "secret": "dd79e344818749bd7ac519130220c25d09",
    "fake": false,
-   "ms": 7,
-   "link": "tg://proxy?server=172.65.96.63&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.143.34",
-   "port": 25565,
-   "secret": "dd79e344818749bd7ac519130220c25d09",
-   "fake": false,
-   "ms": 7,
-   "link": "tg://proxy?server=172.65.143.34&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
+   "ms": 2,
+   "link": "tg://proxy?server=172.65.134.131&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "172.65.154.71",
    "port": 3389,
    "secret": "ee2579351928355396d7d1f0b780065468646c2e676f6f676c652e636f6d",
    "fake": true,
-   "ms": 7,
+   "ms": 2,
    "link": "tg://proxy?server=172.65.154.71&port=3389&secret=ee2579351928355396d7d1f0b780065468646c2e676f6f676c652e636f6d"
   },
   {
@@ -265,119 +209,87 @@
    "port": 25565,
    "secret": "79e344818749bd7ac519130220c25d09",
    "fake": false,
-   "ms": 7,
+   "ms": 2,
    "link": "tg://proxy?server=172.65.120.149&port=25565&secret=79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "server": "172.65.151.172",
+   "port": 25565,
+   "secret": "79e344818749bd7ac519130220c25d09",
+   "fake": false,
+   "ms": 2,
+   "link": "tg://proxy?server=172.65.151.172&port=25565&secret=79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "172.65.157.213",
    "port": 25565,
    "secret": "dd79e344818749bd7ac519130220c25d09",
    "fake": false,
-   "ms": 7,
+   "ms": 2,
    "link": "tg://proxy?server=172.65.157.213&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "172.65.103.117",
+   "server": "172.65.111.25",
    "port": 22,
    "secret": "00000000000000000000000000000000",
    "fake": false,
-   "ms": 7,
-   "link": "tg://proxy?server=172.65.103.117&port=22&secret=00000000000000000000000000000000"
+   "ms": 2,
+   "link": "tg://proxy?server=172.65.111.25&port=22&secret=00000000000000000000000000000000"
   },
   {
-   "server": "172.65.113.134",
-   "port": 22,
-   "secret": "00000000000000000000000000000000",
-   "fake": false,
-   "ms": 8,
-   "link": "tg://proxy?server=172.65.113.134&port=22&secret=00000000000000000000000000000000"
-  },
-  {
-   "server": "172.65.117.172",
-   "port": 22,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-   "fake": true,
-   "ms": 8,
-   "link": "tg://proxy?server=172.65.117.172&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "172.65.134.131",
-   "port": 25565,
-   "secret": "dd79e344818749bd7ac519130220c25d09",
-   "fake": false,
-   "ms": 8,
-   "link": "tg://proxy?server=172.65.134.131&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.125.91",
-   "port": 25565,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-   "fake": true,
-   "ms": 8,
-   "link": "tg://proxy?server=172.65.125.91&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
-  },
-  {
-   "server": "172.65.130.177",
+   "server": "172.65.132.110",
    "port": 25565,
    "secret": "1603010200010001fc031386e24c3add",
    "fake": false,
-   "ms": 9,
-   "link": "tg://proxy?server=172.65.130.177&port=25565&secret=1603010200010001fc031386e24c3add"
+   "ms": 3,
+   "link": "tg://proxy?server=172.65.132.110&port=25565&secret=1603010200010001fc031386e24c3add"
+  },
+  {
+   "server": "172.65.100.05",
+   "port": 25565,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+   "fake": true,
+   "ms": 3,
+   "link": "tg://proxy?server=172.65.100.05&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "172.65.105.152",
+   "port": 25565,
+   "secret": "1603010200010001fc031386e24c3add",
+   "fake": false,
+   "ms": 3,
+   "link": "tg://proxy?server=172.65.105.152&port=25565&secret=1603010200010001fc031386e24c3add"
   },
   {
    "server": "172.65.143.46",
    "port": 25565,
    "secret": "dd79e344818749bd7ac519130220c25d09",
    "fake": false,
-   "ms": 9,
+   "ms": 3,
    "link": "tg://proxy?server=172.65.143.46&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "172.65.134.209",
-   "port": 3389,
+   "server": "172.65.149.160",
+   "port": 22,
    "secret": "dd104462821249bd7ac519130220c25d09",
    "fake": false,
-   "ms": 9,
-   "link": "tg://proxy?server=172.65.134.209&port=3389&secret=dd104462821249bd7ac519130220c25d09"
+   "ms": 3,
+   "link": "tg://proxy?server=172.65.149.160&port=22&secret=dd104462821249bd7ac519130220c25d09"
   },
   {
-   "server": "172.65.234.91",
-   "port": 9443,
-   "secret": "ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267",
-   "fake": true,
-   "ms": 10,
-   "link": "tg://proxy?server=172.65.234.91&port=9443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267"
-  },
-  {
-   "server": "172.65.138.55",
+   "server": "172.65.114.183",
    "port": 25565,
-   "secret": "dd79e344818749bd7ac519130220c25d09",
+   "secret": "79e344818749bd7ac519130220c25d09",
    "fake": false,
-   "ms": 11,
-   "link": "tg://proxy?server=172.65.138.55&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.158.169",
-   "port": 25565,
-   "secret": "dd79e344818749bd7ac519130220c25d09",
-   "fake": false,
-   "ms": 11,
-   "link": "tg://proxy?server=172.65.158.169&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.105.132",
-   "port": 22,
-   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-   "fake": true,
-   "ms": 11,
-   "link": "tg://proxy?server=172.65.105.132&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+   "ms": 3,
+   "link": "tg://proxy?server=172.65.114.183&port=25565&secret=79e344818749bd7ac519130220c25d09"
   },
   {
    "server": "172.65.117.172",
    "port": 22,
    "secret": "dd79e344818749bd7ac519130220c25d09",
    "fake": false,
-   "ms": 12,
+   "ms": 3,
    "link": "tg://proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09"
   },
   {
@@ -385,40 +297,128 @@
    "port": 25565,
    "secret": "79e344818749bd7ac519130220c25d09",
    "fake": false,
-   "ms": 12,
+   "ms": 3,
    "link": "tg://proxy?server=172.65.96.63&port=25565&secret=79e344818749bd7ac519130220c25d09"
   },
   {
-   "server": "172.65.96.123",
-   "port": 25565,
-   "secret": "79e344818749bd7ac519130220c25d090b58d91b9e595add185b995d0b98dbdb59985c985ad85d8b98dbdb5d985b8b9b985a9d984b98dbdb400000000000000000000000000000000000000000000000",
-   "fake": false,
-   "ms": 13,
-   "link": "tg://proxy?server=172.65.96.123&port=25565&secret=79e344818749bd7ac519130220c25d090b58d91b9e595add185b995d0b98dbdb59985c985ad85d8b98dbdb5d985b8b9b985a9d984b98dbdb400000000000000000000000000000000000000000000000"
-  },
-  {
-   "server": "172.65.149.160",
-   "port": 22,
-   "secret": "dd104462821249bd7ac519130220c25d09",
-   "fake": false,
-   "ms": 13,
-   "link": "tg://proxy?server=172.65.149.160&port=22&secret=dd104462821249bd7ac519130220c25d09"
-  },
-  {
-   "server": "172.65.111.25",
+   "server": "172.65.103.117",
    "port": 22,
    "secret": "00000000000000000000000000000000",
    "fake": false,
-   "ms": 18,
-   "link": "tg://proxy?server=172.65.111.25&port=22&secret=00000000000000000000000000000000"
+   "ms": 3,
+   "link": "tg://proxy?server=172.65.103.117&port=22&secret=00000000000000000000000000000000"
   },
   {
-   "server": "mc-ssh.t-proxyru.info",
+   "server": "my.jinxandjack.co.uk",
+   "port": 443,
+   "secret": "eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169",
+   "fake": true,
+   "ms": 3,
+   "link": "tg://proxy?server=my.jinxandjack.co.uk&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169"
+  },
+  {
+   "server": "172.65.105.132",
+   "port": 22,
+   "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+   "fake": true,
+   "ms": 3,
+   "link": "tg://proxy?server=172.65.105.132&port=22&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "172.65.234.91",
+   "port": 9443,
+   "secret": "ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267",
+   "fake": true,
+   "ms": 4,
+   "link": "tg://proxy?server=172.65.234.91&port=9443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267"
+  },
+  {
+   "server": "172.65.105.80",
    "port": 25565,
-   "secret": "79ed74e38eb6f36d76e3d6ddeda739d7dd77d36db4736e5dd3deb7eb8e9ed9eefdeb9e9bef8eb5e9eeb9ef8d9eeb7e9fe9",
+   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+   "fake": true,
+   "ms": 4,
+   "link": "tg://proxy?server=172.65.105.80&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "172.65.62.96",
+   "port": 49955,
+   "secret": "79e344818749bd7ac519130220c25d09",
    "fake": false,
-   "ms": 30,
-   "link": "tg://proxy?server=mc-ssh.t-proxyru.info&port=25565&secret=79ed74e38eb6f36d76e3d6ddeda739d7dd77d36db4736e5dd3deb7eb8e9ed9eefdeb9e9bef8eb5e9eeb9ef8d9eeb7e9fe9"
+   "ms": 4,
+   "link": "tg://proxy?server=172.65.62.96&port=49955&secret=79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "server": "172.65.143.34",
+   "port": 25565,
+   "secret": "dd79e344818749bd7ac519130220c25d09",
+   "fake": false,
+   "ms": 4,
+   "link": "tg://proxy?server=172.65.143.34&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "server": "104.21.21.77",
+   "port": 443,
+   "secret": "dd00000000000000000000000000000000",
+   "fake": false,
+   "ms": 4,
+   "link": "tg://proxy?server=104.21.21.77&port=443&secret=dd00000000000000000000000000000000"
+  },
+  {
+   "server": "172.65.135.177",
+   "port": 25565,
+   "secret": "dd104462821249bd7ac519130220c25d09",
+   "fake": false,
+   "ms": 4,
+   "link": "tg://proxy?server=172.65.135.177&port=25565&secret=dd104462821249bd7ac519130220c25d09"
+  },
+  {
+   "server": "172.65.119.133",
+   "port": 25565,
+   "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+   "fake": true,
+   "ms": 5,
+   "link": "tg://proxy?server=172.65.119.133&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
+  },
+  {
+   "server": "172.65.96.63",
+   "port": 25565,
+   "secret": "dd79e344818749bd7ac519130220c25d09",
+   "fake": false,
+   "ms": 5,
+   "link": "tg://proxy?server=172.65.96.63&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "server": "172.65.146.240",
+   "port": 25565,
+   "secret": "dd79e344818749bd7ac519130220c25d09",
+   "fake": false,
+   "ms": 5,
+   "link": "tg://proxy?server=172.65.146.240&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
+  },
+  {
+   "server": "172.65.97.7",
+   "port": 22,
+   "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+   "fake": true,
+   "ms": 5,
+   "link": "tg://proxy?server=172.65.97.7&port=22&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
+  },
+  {
+   "server": "172.65.130.177",
+   "port": 25565,
+   "secret": "1603010200010001fc031386e24c3add",
+   "fake": false,
+   "ms": 6,
+   "link": "tg://proxy?server=172.65.130.177&port=25565&secret=1603010200010001fc031386e24c3add"
+  },
+  {
+   "server": "172.65.158.169",
+   "port": 25565,
+   "secret": "dd79e344818749bd7ac519130220c25d09",
+   "fake": false,
+   "ms": 7,
+   "link": "tg://proxy?server=172.65.158.169&port=25565&secret=dd79e344818749bd7ac519130220c25d09"
   }
  ]
 }
