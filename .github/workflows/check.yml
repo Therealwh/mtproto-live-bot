@@ -1,0 +1,36 @@
+name: Proxy check
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: proxy-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Check proxies
+        run: python check.py
+      - name: Commit
+        run: |
+          git config user.name "mtproxy-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: proxy check $(date -u +%FT%TZ)"
+            for i in 1 2 3; do
+              if git pull --rebase origin main && git push; then break; fi
+              sleep 5
+            done
+          fi
