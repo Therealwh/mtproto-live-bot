@@ -1,7 +1,9 @@
 {
- "time": "2026-11-12T19:49:18+03:00",
+ "time": "2026-11-12T20:45:23+03:00",
  "date_ru": "12 ноября 2026",
- "time_hm": "19:49",
- "tcp_alive": 740,
- "verified": 0
+ "time_hm": "20:45",
+ "sources_ok": 3,
+ "sources_total": 3,
+ "checked": 925,
+ "alive": 905
 }
