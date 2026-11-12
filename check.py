@@ -13,6 +13,7 @@ import socket, json, io, os, re, time, random, datetime, urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import mtproto_check
+import proxy_history
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 MONTHS = ["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"]
@@ -102,6 +103,11 @@ print("MTProto-проверка: ee ok/fail=%d/%d dd ok/fail=%d/%d classic ok/fa
     mtproto_stats["classic"][0], mtproto_stats["classic"][1],
     mtproto_stats["bad"]))
 print("живых (настоящий хендшейк):", len(verified))
+
+# история живости: серии «🟢 жив Nч» для постов (proxy_history.json)
+hist = proxy_history.load(ROOT)
+proxy_history.update(hist, verified)
+proxy_history.save(ROOT, hist)
 
 # --- 4. verified.json ---
 now = datetime.datetime.utcnow() + datetime.timedelta(hours=3)

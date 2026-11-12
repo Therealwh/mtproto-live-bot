@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name "mtproxy-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add last_used.json
+          git add last_used.json digest_state.json
           if git diff --cached --quiet; then
             echo "no changes"
           else
