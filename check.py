@@ -78,7 +78,7 @@ async def main():
             return None
 
     # приоритет FakeTLS (ee) — выживают при DPI
-    alive.sort(key=lambda p: (0 if p["secret"].lower().startswith("ee") else 1, len(p["secret"])))
+    alive.sort(key=lambda p: (1 if p["secret"].lower().startswith("ee") else 0, len(p["secret"])))  # dd первее — Telethon умеет только dd
     batch = alive[:60]
     for i in range(0, len(batch), 6):
         chunk = batch[i:i+6]
