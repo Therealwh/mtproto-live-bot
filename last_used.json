@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=79.137.196.223&port=10443&secret=ee63fccdeb9951e5f99d66d274148278b97777772e636c6f7564666c6172652e636f6d",
-  "at": "2026-11-13T01:30:43+03:00"
- },
- {
-  "link": "tg://proxy?server=akenai.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-  "at": "2026-11-13T01:30:43+03:00"
- },
- {
-  "link": "tg://proxy?server=shir.dokhtar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-13T01:30:43+03:00"
- },
- {
-  "link": "tg://proxy?server=paitakht.arasto.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-13T01:30:43+03:00"
- },
- {
   "link": "tg://proxy?server=galaxy.tidalbirch.sbs&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275",
   "at": "2026-11-13T02:00:53+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=79.137.196.223&port=443&secret=eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d",
   "at": "2026-11-13T05:00:51+03:00"
+ },
+ {
+  "link": "tg://proxy?server=proxy.ajexvpn.xyz.ci&port=443&secret=ee4cca22b519a5f878999c0cabb23a1c257777772e636c6f7564666c6172652e636f6d",
+  "at": "2026-11-13T05:30:46+03:00"
+ },
+ {
+  "link": "tg://proxy?server=vista.quietfjord.click&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d",
+  "at": "2026-11-13T05:30:46+03:00"
+ },
+ {
+  "link": "tg://proxy?server=hamishegi.ir.gole-baghche.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
+  "at": "2026-11-13T05:30:46+03:00"
+ },
+ {
+  "link": "tg://proxy?server=zenith.tidalbirch.sbs&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275",
+  "at": "2026-11-13T05:30:46+03:00"
  }
 ]
