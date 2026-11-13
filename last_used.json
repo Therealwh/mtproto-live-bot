@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=pine.saltfern.xyz&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275",
-  "at": "2026-11-13T06:00:55+03:00"
- },
- {
-  "link": "tg://proxy?server=new-for-you.ir.hohoshshs.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-  "at": "2026-11-13T06:00:55+03:00"
- },
- {
-  "link": "tg://proxy?server=strait-of-hormuz.ir.jursdheks.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
-  "at": "2026-11-13T06:00:55+03:00"
- },
- {
-  "link": "tg://proxy?server=room.talebi.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-13T06:00:55+03:00"
- },
- {
   "link": "tg://proxy?server=phoenix.tidalbirch.sbs&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275",
   "at": "2026-11-13T06:30:44+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=amir-ghalenoei-gq.ir.yfdhjderkig.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
   "at": "2026-11-13T09:30:42+03:00"
+ },
+ {
+  "link": "tg://proxy?server=for.download.ir.zigoraaat.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-13T10:00:54+03:00"
+ },
+ {
+  "link": "tg://proxy?server=doktor.rastapor.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-13T10:00:54+03:00"
+ },
+ {
+  "link": "tg://proxy?server=79.137.196.223&port=17443&secret=ee619628651747706ea93bfbd344ba3fc17777772e636c6f7564666c6172652e636f6d",
+  "at": "2026-11-13T10:00:54+03:00"
+ },
+ {
+  "link": "tg://proxy?server=torobchesho.co.uk&port=443&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01746f726f6263686573686f2e636f2e756b",
+  "at": "2026-11-13T10:00:54+03:00"
  }
 ]
