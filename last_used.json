@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=n7d626c.lumenpost.top&port=443&secret=ee0b03536395a48484bf73aadee0e37dd46d2e6c756d656e706f73742e746f70",
-  "at": "2026-11-13T11:02:34+03:00"
- },
- {
-  "link": "tg://proxy?server=noble.foxglade.xyz&port=8443&secret=ee6e1557d9ae190a4e74ab4084d9cffd22706574726f766963682e7275",
-  "at": "2026-11-13T11:02:34+03:00"
- },
- {
-  "link": "tg://proxy?server=crest.copperwren.click&port=8443&secret=ee6e1557d9ae190a4e74ab4084d9cffd22706574726f766963682e7275",
-  "at": "2026-11-13T11:02:34+03:00"
- },
- {
-  "link": "tg://proxy?server=arezoni6.ir&port=15&secret=ee1603010200010001fc030386e24c3add646565707365656b2e636f6d",
-  "at": "2026-11-13T11:02:34+03:00"
- },
- {
   "link": "tg://proxy?server=stand-for-iran.ir.mausjakaqd.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
   "at": "2026-11-13T11:30:49+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=shir.pesar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
   "at": "2026-11-13T15:00:54+03:00"
+ },
+ {
+  "link": "tg://proxy?server=warp.webproxy.lol&port=443&secret=eecdd352e63c109299dc978b4e94fc4897776172702e77656270726f78792e6c6f6c",
+  "at": "2026-11-13T16:00:53+03:00"
+ },
+ {
+  "link": "tg://proxy?server=for-best-download-iran.ir.gybshdjls.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-13T16:00:53+03:00"
+ },
+ {
+  "link": "tg://proxy?server=super-hero-iran.ir.mausjakaqd.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-13T16:00:53+03:00"
+ },
+ {
+  "link": "tg://proxy?server=87.248.129.201&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+  "at": "2026-11-13T16:00:53+03:00"
  }
 ]
