@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=proxy.ajexvpn.xyz.ci&port=443&secret=ee4cca22b519a5f878999c0cabb23a1c257777772e636c6f7564666c6172652e636f6d",
-  "at": "2026-11-13T05:30:46+03:00"
- },
- {
-  "link": "tg://proxy?server=vista.quietfjord.click&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d",
-  "at": "2026-11-13T05:30:46+03:00"
- },
- {
-  "link": "tg://proxy?server=hamishegi.ir.gole-baghche.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
-  "at": "2026-11-13T05:30:46+03:00"
- },
- {
-  "link": "tg://proxy?server=zenith.tidalbirch.sbs&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275",
-  "at": "2026-11-13T05:30:46+03:00"
- },
- {
   "link": "tg://proxy?server=pine.saltfern.xyz&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275",
   "at": "2026-11-13T06:00:55+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
   "at": "2026-11-13T09:00:52+03:00"
+ },
+ {
+  "link": "tg://proxy?server=matrixxx.top&port=853&secret=eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70",
+  "at": "2026-11-13T09:30:42+03:00"
+ },
+ {
+  "link": "tg://proxy?server=top.mishutkin.click&port=443&secret=ee4b5ba12e11065746126723c1a1baf54d64726976652e676f6f676c652e636f6d",
+  "at": "2026-11-13T09:30:42+03:00"
+ },
+ {
+  "link": "tg://proxy?server=lte.mishutkin.click&port=443&secret=ee67af30bbe3543b32fd7b6966a61417e26c74652e6d69736875746b696e2e636c69636b",
+  "at": "2026-11-13T09:30:42+03:00"
+ },
+ {
+  "link": "tg://proxy?server=amir-ghalenoei-gq.ir.yfdhjderkig.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-13T09:30:42+03:00"
  }
 ]
