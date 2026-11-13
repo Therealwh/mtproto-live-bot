@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=stand-for-iran.ir.mausjakaqd.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
-  "at": "2026-11-13T11:30:49+03:00"
- },
- {
-  "link": "tg://proxy?server=king-of-the-world.ir.bishdhaep.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-13T11:30:49+03:00"
- },
- {
-  "link": "tg://proxy?server=tavakalta-alalah.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-13T11:30:49+03:00"
- },
- {
-  "link": "tg://proxy?server=acineirani-uoor2.ir&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-13T11:30:49+03:00"
- },
- {
   "link": "tg://proxy?server=suodbo.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
   "at": "2026-11-13T12:00:55+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=87.248.129.201&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
   "at": "2026-11-13T16:00:53+03:00"
+ },
+ {
+  "link": "tg://proxy?server=apollo.larchmere.xyz&port=8443&secret=ee6e1557d9ae190a4e74ab4084d9cffd22706574726f766963682e7275",
+  "at": "2026-11-13T17:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=crystal.mosswren.vip&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d",
+  "at": "2026-11-13T17:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=melat.managep.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-13T17:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=sehat-salamt-colagen.gigibuffun.com&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-13T17:00:55+03:00"
  }
 ]
