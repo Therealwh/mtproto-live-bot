@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=one.rozinalpoku.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6f6e652e726f7a696e616c706f6b752e636f2e756b",
-  "at": "2026-11-13T08:30:42+03:00"
- },
- {
-  "link": "tg://proxy?server=178.105.141.172&port=443&secret=ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d",
-  "at": "2026-11-13T08:30:42+03:00"
- },
- {
-  "link": "tg://proxy?server=i-love-hse.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-  "at": "2026-11-13T08:30:42+03:00"
- },
- {
-  "link": "tg://proxy?server=tiraneh.mymedu.al.quest&port=443&secret=ee64256f87ae8b037e13f4e0c621806def7777772e636c6f7564666c6172652e636f6d",
-  "at": "2026-11-13T08:30:42+03:00"
- },
- {
   "link": "tg://proxy?server=always.for.you.ir.mausjakaqd.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
   "at": "2026-11-13T09:00:52+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=all-internets.ir.yplkmbcyu.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
   "at": "2026-11-13T12:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=quasar.tidelark.cc&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275",
+  "at": "2026-11-13T12:30:51+03:00"
+ },
+ {
+  "link": "tg://proxy?server=spark.saltfern.xyz&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275",
+  "at": "2026-11-13T12:30:51+03:00"
+ },
+ {
+  "link": "tg://proxy?server=birch.copperwren.click&port=8443&secret=ee6e1557d9ae190a4e74ab4084d9cffd22706574726f766963682e7275",
+  "at": "2026-11-13T12:30:51+03:00"
+ },
+ {
+  "link": "tg://proxy?server=he.18.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
+  "at": "2026-11-13T12:30:51+03:00"
  }
 ]
