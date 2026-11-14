@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=galaxy.tidalbirch.sbs&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275",
-  "at": "2026-11-13T22:00:53+03:00"
- },
- {
-  "link": "tg://proxy?server=rocket.copperwren.click&port=8443&secret=ee6e1557d9ae190a4e74ab4084d9cffd22706574726f766963682e7275",
-  "at": "2026-11-13T22:00:53+03:00"
- },
- {
-  "link": "tg://proxy?server=87.248.129.130&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-13T22:00:53+03:00"
- },
- {
-  "link": "tg://proxy?server=glow.birchquay.xyz&port=8443&secret=ee1c0302da542b3dbfa43927dfa654feaf786170692e6f7a6f6e2e7275",
-  "at": "2026-11-13T22:00:53+03:00"
- },
- {
   "link": "tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
   "at": "2026-11-13T23:00:52+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=w.prxtg.top&port=443&secret=eec15b39b08e586ff58acd45d81178bf1864726976652e676f6f676c652e636f6d",
   "at": "2026-11-14T05:00:58+03:00"
+ },
+ {
+  "link": "tg://proxy?server=annexationist.barometrically.rudderpost.pinoywebtv.com&port=443&secret=ee08a86cc796e4874ed8a451a8f7f00964647a656e2e7275",
+  "at": "2026-11-14T06:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=sdfree.mahanam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-14T06:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=89.124.95.185&port=8443&secret=ee6403877430086085167456439119957338392e3132342e39352e313835",
+  "at": "2026-11-14T06:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=193.163.203.247&port=443&secret=eeedc92b816769e7ca95e42be4ae45eac53139332e31",
+  "at": "2026-11-14T06:00:55+03:00"
  }
 ]
