@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=172.65.119.133&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
-  "at": "2026-11-14T04:00:49+03:00"
- },
- {
-  "link": "tg://proxy?server=static.b-telega.shop&port=443&secret=ee9a3f90be73d8392fd072f9860a2699de7374617469632e622d74656c6567612e73686f70",
-  "at": "2026-11-14T04:00:49+03:00"
- },
- {
-  "link": "tg://proxy?server=on.mishutkin.click&port=443&secret=eebc740653e2e1fd5972b4a92e5a0dd7826f6e2e6d69736875746b696e2e636c69636b",
-  "at": "2026-11-14T04:00:49+03:00"
- },
- {
-  "link": "tg://proxy?server=matrixxx.top&port=853&secret=eee4508d288bf81791177a2f5e73ac06cf6d617472697878782e746f70",
-  "at": "2026-11-14T04:00:49+03:00"
- },
- {
   "link": "tg://proxy?server=i-love-boobs.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
   "at": "2026-11-14T05:00:58+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=host.numbplodab.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add686f73742e6e756d62706c6f6461622e636f2e756b",
   "at": "2026-11-14T11:00:53+03:00"
+ },
+ {
+  "link": "tg://proxy?server=lisanse-iran-germany.gigibuffun.com&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-14T12:00:53+03:00"
+ },
+ {
+  "link": "tg://proxy?server=echo.mossharbor.xyz&port=8443&secret=eeb7008fec0a543bd06ecf04d350c23a8a64726976652e676f6f676c652e636f6d",
+  "at": "2026-11-14T12:00:53+03:00"
+ },
+ {
+  "link": "tg://proxy?server=79.137.196.223&port=21443&secret=ee70d02df07ecb5669b6eb010aba55eab07777772e636c6f7564666c6172652e636f6d",
+  "at": "2026-11-14T12:00:53+03:00"
+ },
+ {
+  "link": "tg://proxy?server=eagle.fernlark.xyz&port=8443&secret=ee6e1557d9ae190a4e74ab4084d9cffd22706574726f766963682e7275",
+  "at": "2026-11-14T12:00:53+03:00"
  }
 ]
