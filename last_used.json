@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=79.137.196.223&port=16443&secret=ee64cb94437cedd507cf9c4d83fbc229287777772e636c6f7564666c6172652e636f6d",
-  "at": "2026-11-15T22:01:03+03:00"
- },
- {
-  "link": "tg://proxy?server=tg.prxtg.top&port=443&secret=ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d",
-  "at": "2026-11-15T22:01:03+03:00"
- },
- {
-  "link": "tg://proxy?server=halim.nazri.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-  "at": "2026-11-15T22:01:03+03:00"
- },
- {
-  "link": "tg://proxy?server=rimi88.fernlark.xyz&port=8443&secret=ee3e175e0503b04fc22a65e6b6b60d5d9c786170692e6f7a6f6e2e7275",
-  "at": "2026-11-15T22:01:03+03:00"
- },
- {
   "link": "tg://proxy?server=fast.proxynet.tech&port=443&secret=ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368",
   "at": "2026-11-15T23:01:00+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=my-ip.ir.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
   "at": "2026-11-16T05:01:02+03:00"
+ },
+ {
+  "link": "tg://proxy?server=esplanade.poker.unconsecrated.pinoywebtv.com&port=443&secret=ee8704bc882dc9454091bf7b21ea16e76c647a656e2e7275",
+  "at": "2026-11-16T06:00:59+03:00"
+ },
+ {
+  "link": "tg://proxy?server=rami28.tidelark.cc&port=443&secret=ee14697011e0c73f03e95d7b6919a2252b72616d6932382e746964656c61726b2e6363",
+  "at": "2026-11-16T06:00:59+03:00"
+ },
+ {
+  "link": "tg://proxy?server=eboulement.hierolatry.platinize.soapfish.southerner.filka.info&port=42223&secret=ee806f1e6b70f6a7c119c94ba66cee0a97647a656e2e7275",
+  "at": "2026-11-16T06:00:59+03:00"
+ },
+ {
+  "link": "tg://proxy?server=daemi-asli.karshenasi.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-16T06:00:59+03:00"
  }
 ]
