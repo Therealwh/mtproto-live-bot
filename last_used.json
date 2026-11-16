@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=nekari33.quietfjord.click&port=443&secret=ee1a9f1268411f091eff4aaca46d0c7fa5706574726f766963682e7275",
-  "at": "2026-11-16T01:00:54+03:00"
- },
- {
-  "link": "tg://proxy?server=legato86.quietfjord.click&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd206c656761746f38362e7175696574666a6f72642e636c69636b",
-  "at": "2026-11-16T01:00:54+03:00"
- },
- {
-  "link": "tg://proxy?server=neka94.tidelark.cc&port=443&secret=eea02849a55daccdc7f7a05691b7ef7cd16e656b6139342e746964656c61726b2e6363",
-  "at": "2026-11-16T01:00:54+03:00"
- },
- {
-  "link": "tg://proxy?server=logato78.tidelark.cc&port=443&secret=eeb0a621aecd97816306c197d21a8bf47b6c6f6761746f37382e746964656c61726b2e6363",
-  "at": "2026-11-16T01:00:54+03:00"
- },
- {
   "link": "tg://proxy?server=sv2.just-money.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
   "at": "2026-11-16T02:01:01+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=crest.copperwren.click&port=8443&secret=ee6e1557d9ae190a4e74ab4084d9cffd22706574726f766963682e7275",
   "at": "2026-11-16T08:01:00+03:00"
+ },
+ {
+  "link": "tg://proxy?server=nema75.kelpmoor.xyz&port=443&secret=ee3766caef3a1312832d053fae6706c1d86f7a6f6e2e7275",
+  "at": "2026-11-16T09:01:02+03:00"
+ },
+ {
+  "link": "tg://proxy?server=risuto15.kelpmoor.xyz&port=8443&secret=eee1d528d13649f8288c1ea7898787b486617669746f2e7275",
+  "at": "2026-11-16T09:01:02+03:00"
+ },
+ {
+  "link": "tg://proxy?server=arizo6pro.basalam.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-16T09:01:02+03:00"
+ },
+ {
+  "link": "tg://proxy?server=190.2.144.63&port=443&secret=eea3c15217ac9f487f3a9c2a1cab661ebb7777772e676f6f676c652e636f6d",
+  "at": "2026-11-16T09:01:02+03:00"
  }
 ]
