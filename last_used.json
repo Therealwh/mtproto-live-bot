@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=dena-plus-auto.denatara.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-16T23:00:55+03:00"
- },
- {
-  "link": "tg://proxy?server=lolo65.quillmarsh.xyz&port=8443&secret=eeae5ab45be1bccbba85eec21085b2fd20706574726f766963682e7275",
-  "at": "2026-11-16T23:00:55+03:00"
- },
- {
-  "link": "tg://proxy?server=assurgent.gaw.openwork.teleseryestvheaven.com&port=443&secret=eeba70264b55773b956a57b9ebe8b2d0cc647a656e2e7275",
-  "at": "2026-11-16T23:00:55+03:00"
- },
- {
-  "link": "tg://proxy?server=89.124.95.185&port=8443&secret=ee6403877430086085167456439119957338392e3132342e39352e313835",
-  "at": "2026-11-16T23:00:55+03:00"
- },
- {
   "link": "tg://proxy?server=p1.proxytesterbot.cloud&port=443&secret=eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d",
   "at": "2026-11-17T00:00:56+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=freeconnect.lol&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
   "at": "2026-11-17T06:01:05+03:00"
+ },
+ {
+  "link": "tg://proxy?server=ultra.proxynet.tech&port=443&secret=eec5b6dfd5a5f78d29e7eee7aa64aae742756c7472612e70726f78796e65742e74656368",
+  "at": "2026-11-17T07:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=summit.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275",
+  "at": "2026-11-17T07:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=brookpearl.heronglade.space&port=8443&secret=ee2b60d9fbfb7978842047eb90c50862a0786170692e6f7a6f6e2e7275",
+  "at": "2026-11-17T07:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=shir.pesar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+  "at": "2026-11-17T07:00:55+03:00"
  }
 ]
