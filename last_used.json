@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=moon.talebi.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-17T15:00:57+03:00"
- },
- {
-  "link": "tg://proxy?server=toga43.sorrelbay.xyz&port=8443&secret=eef17c22a56cac8bd46d12b91f8f9e102f62726f777365722e79616e6465782e7275",
-  "at": "2026-11-17T15:00:57+03:00"
- },
- {
-  "link": "tg://proxy?server=190.2.144.63&port=443&secret=eea3c15217ac9f487f3a9c2a1cab661ebb7777772e676f6f676c652e636f6d",
-  "at": "2026-11-17T15:00:57+03:00"
- },
- {
-  "link": "tg://proxy?server=rimi88.fernlark.xyz&port=8443&secret=ee3e175e0503b04fc22a65e6b6b60d5d9c786170692e6f7a6f6e2e7275",
-  "at": "2026-11-17T15:00:57+03:00"
- },
- {
   "link": "tg://proxy?server=calcium-credit.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
   "at": "2026-11-17T16:00:58+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=login.kerfilia.info&port=6775&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
   "at": "2026-11-17T22:00:58+03:00"
+ },
+ {
+  "link": "tg://proxy?server=syntax.lamari.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+  "at": "2026-11-17T23:01:07+03:00"
+ },
+ {
+  "link": "tg://proxy?server=turbo.webproxy.lol&port=443&secret=ee51fa3aadf3d9849a914784a8de1ff7e0747572626f2e77656270726f78792e6c6f6c",
+  "at": "2026-11-17T23:01:07+03:00"
+ },
+ {
+  "link": "tg://proxy?server=sulo34.mosswren.vip&port=443&secret=ee920a4026fcc79354d87c30db9280e57873756c6f33342e6d6f73737772656e2e766970",
+  "at": "2026-11-17T23:01:07+03:00"
+ },
+ {
+  "link": "tg://proxy?server=rale49.mosswren.vip&port=443&secret=ee73e7dbb3f2f846f567e24bee244c0f1072616c6534392e6d6f73737772656e2e766970",
+  "at": "2026-11-17T23:01:07+03:00"
  }
 ]
