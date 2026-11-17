@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=horizon.larchmere.xyz&port=8443&secret=ee6e1557d9ae190a4e74ab4084d9cffd22706574726f766963682e7275",
-  "at": "2026-11-16T20:00:59+03:00"
- },
- {
-  "link": "tg://proxy?server=79.137.196.223&port=18443&secret=eefd7ec32323aa5b4fc5cdd6b7dd28836a7777772e636c6f7564666c6172652e636f6d",
-  "at": "2026-11-16T20:00:59+03:00"
- },
- {
-  "link": "tg://proxy?server=87.58.149.247&port=443&secret=eeaaa7b0dbdfce2f2a3e7bc5563c900e297777772e636c6f7564666c6172652e636f6d",
-  "at": "2026-11-16T20:00:59+03:00"
- },
- {
-  "link": "tg://proxy?server=gato74.saltfern.xyz&port=443&secret=ee214011ba04108a7b1836df3a5e918b3b6761746f37342e73616c746665726e2e78797a",
-  "at": "2026-11-16T20:00:59+03:00"
- },
- {
   "link": "tg://proxy?server=neny42.tidelark.cc&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6e656e7934322e746964656c61726b2e6363",
   "at": "2026-11-16T21:00:58+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=barsik.subaru-volga.com&port=443&secret=ee04daa35f7150d1d16c43f270c26831086a61726b6f2e6d79726b612e6469676974616c",
   "at": "2026-11-17T03:00:58+03:00"
+ },
+ {
+  "link": "tg://proxy?server=0xb00b5.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+  "at": "2026-11-17T04:00:54+03:00"
+ },
+ {
+  "link": "tg://proxy?server=blue.golgoli2.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
+  "at": "2026-11-17T04:00:54+03:00"
+ },
+ {
+  "link": "tg://proxy?server=cloud.ir.asiatech-bestserver.technom.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-17T04:00:54+03:00"
+ },
+ {
+  "link": "tg://proxy?server=vitori41.tidelark.cc&port=443&secret=ee214011ba04108a7b1836df3a5e918b3b7669746f726934312e746964656c61726b2e6363",
+  "at": "2026-11-17T04:00:54+03:00"
  }
 ]
