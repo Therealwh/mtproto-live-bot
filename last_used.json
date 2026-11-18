@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=79.137.196.223&port=19443&secret=ee34faea79631cc8b7b884a3d513857e7b7777772e636c6f7564666c6172652e636f6d",
-  "at": "2026-11-18T02:01:03+03:00"
- },
- {
-  "link": "tg://proxy?server=rirara15.mosswren.vip&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd2072697261726131352e6d6f73737772656e2e766970",
-  "at": "2026-11-18T02:01:03+03:00"
- },
- {
-  "link": "tg://proxy?server=79.137.196.223&port=21443&secret=ee70d02df07ecb5669b6eb010aba55eab07777772e636c6f7564666c6172652e636f6d",
-  "at": "2026-11-18T02:01:03+03:00"
- },
- {
-  "link": "tg://proxy?server=prater.shoeblack.sunny.teleseryepinoytv.com&port=443&secret=eedd184c9cc739c88d2c2e9fa110ca6281647a656e2e7275",
-  "at": "2026-11-18T02:01:03+03:00"
- },
- {
   "link": "tg://proxy?server=cdn.yektanet.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
   "at": "2026-11-18T03:01:00+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=book.malavanann.co.uk&port=2053&secret=ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d",
   "at": "2026-11-18T09:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=yastatic.co.uk&port=443&secret=ee4d529b445ca1cfa716b340ef99877570727a796d68702e79617374617469632e6e6574",
+  "at": "2026-11-18T10:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=sensitizer.unparted.upscale.gmateleserye.com&port=443&secret=eec7aee1f820ac1fc748444dfe1bc8132b647a656e2e7275",
+  "at": "2026-11-18T10:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=n78dcf0.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d",
+  "at": "2026-11-18T10:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=shir.pesar.hedoit.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+  "at": "2026-11-18T10:00:57+03:00"
  }
 ]
