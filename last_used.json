@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=rizolo89.sorrelbay.xyz&port=8443&secret=ee71184e2ac505ed5840dd5a00da3318f3617669746f2e7275",
-  "at": "2026-11-19T17:00:58+03:00"
- },
- {
-  "link": "tg://proxy?server=nema75.kelpmoor.xyz&port=443&secret=ee3766caef3a1312832d053fae6706c1d86f7a6f6e2e7275",
-  "at": "2026-11-19T17:00:58+03:00"
- },
- {
-  "link": "tg://proxy?server=87.248.129.137&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-19T17:00:58+03:00"
- },
- {
-  "link": "tg://proxy?server=0xb00b5.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-  "at": "2026-11-19T17:00:58+03:00"
- },
- {
   "link": "tg://proxy?server=lozo34.copperwren.click&port=8443&secret=eeae5ab45be1bccbba85eec21085b2fd2064726976652e676f6f676c652e636f6d",
   "at": "2026-11-19T18:01:11+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=logato78.tidelark.cc&port=443&secret=eeb0a621aecd97816306c197d21a8bf47b6c6f6761746f37382e746964656c61726b2e6363",
   "at": "2026-11-20T00:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=host.mizbanonline.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+  "at": "2026-11-20T01:00:56+03:00"
+ },
+ {
+  "link": "tg://proxy?server=mito38.mosswren.vip&port=443&secret=eea02849a55daccdc7f7a05691b7ef7cd16d69746f33382e6d6f73737772656e2e766970",
+  "at": "2026-11-20T01:00:56+03:00"
+ },
+ {
+  "link": "tg://proxy?server=rivisu64.tidelark.cc&port=443&secret=ee214011ba04108a7b1836df3a5e918b3b72697669737536342e746964656c61726b2e6363",
+  "at": "2026-11-20T01:00:56+03:00"
+ },
+ {
+  "link": "tg://proxy?server=cheater.nosy.yawningly.teleseryeshd.com&port=443&secret=eee3b01fd16836a459f83deca3c18dd0fb647a656e2e7275",
+  "at": "2026-11-20T01:00:56+03:00"
  }
 ]
