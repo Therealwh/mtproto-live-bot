@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=ramane52.mosswren.vip&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd2072616d616e6535322e6d6f73737772656e2e766970",
-  "at": "2026-11-20T15:01:02+03:00"
- },
- {
-  "link": "tg://proxy?server=haven.tealbriar.xyz&port=8443&secret=ee161a50ae8c2609a3df6daa30ca2dfb9f786170692e6f7a6f6e2e7275",
-  "at": "2026-11-20T15:01:02+03:00"
- },
- {
-  "link": "tg://proxy?server=vile61.foxglade.xyz&port=443&secret=ee920a4026fcc79354d87c30db9280e57876696c6536312e666f78676c6164652e78797a",
-  "at": "2026-11-20T15:01:02+03:00"
- },
- {
-  "link": "tg://proxy?server=kite.heronglade.space&port=443&secret=eef34d88320a4d0b6e8aaf11541681dd7c706574726f766963682e7275",
-  "at": "2026-11-20T15:01:02+03:00"
- },
- {
   "link": "tg://proxy?server=mobile.prxtg.top&port=443&secret=ee8ae40a2aa7554a058f3340b6449e4e666d6f62696c652e70727874672e746f70",
   "at": "2026-11-20T16:00:59+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=quasar.tealbriar.xyz&port=8443&secret=ee161a50ae8c2609a3df6daa30ca2dfb9f786170692e6f7a6f6e2e7275",
   "at": "2026-11-20T22:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=87.248.129.196&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+  "at": "2026-11-20T23:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=jtproxy.life&port=443&secret=eef0050d30441bab41f60acae779df0c40766473696e612e7275",
+  "at": "2026-11-20T23:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=sapphireaurora.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9473617070686972656175726f72612e76656c76657477696e646f772e6363",
+  "at": "2026-11-20T23:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=skill-issue.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
+  "at": "2026-11-20T23:00:57+03:00"
  }
 ]
