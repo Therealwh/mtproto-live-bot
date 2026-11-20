@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=sv5.hajhossein.observer&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-19T20:01:02+03:00"
- },
- {
-  "link": "tg://proxy?server=box.talebi.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-19T20:01:02+03:00"
- },
- {
-  "link": "tg://proxy?server=79.137.196.223&port=14443&secret=ee9e28cf588967add684c5e759fea036d47777772e636c6f7564666c6172652e636f6d",
-  "at": "2026-11-19T20:01:02+03:00"
- },
- {
-  "link": "tg://proxy?server=mirage.tealbriar.xyz&port=8443&secret=eed8e23b55798e53b64877d42e6ef94a3f64726976652e676f6f676c652e636f6d",
-  "at": "2026-11-19T20:01:02+03:00"
- },
- {
   "link": "tg://proxy?server=opal.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946f70616c2e76656c76657477696e646f772e6363",
   "at": "2026-11-19T21:00:58+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=jounob-iran-dar-ghalb-mast.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
   "at": "2026-11-20T03:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=dede19.tidelark.cc&port=443&secret=ee41ee77d8b25bda2a9843be139200384d706574726f766963682e7275",
+  "at": "2026-11-20T04:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=karbon.torobchesho.co.uk&port=443&secret=ee79e344828749bd7ac519130220c25d096b6172626f6e2e746f726f6263686573686f2e636f2e756b",
+  "at": "2026-11-20T04:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=crystal.tealbriar.xyz&port=8443&secret=ee161a50ae8c2609a3df6daa30ca2dfb9f786170692e6f7a6f6e2e7275",
+  "at": "2026-11-20T04:00:55+03:00"
+ },
+ {
+  "link": "tg://proxy?server=zenith.tealbriar.xyz&port=8443&secret=ee161a50ae8c2609a3df6daa30ca2dfb9f786170692e6f7a6f6e2e7275",
+  "at": "2026-11-20T04:00:55+03:00"
  }
 ]
