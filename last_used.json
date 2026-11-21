@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=87.248.129.196&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-20T23:00:57+03:00"
- },
- {
-  "link": "tg://proxy?server=jtproxy.life&port=443&secret=eef0050d30441bab41f60acae779df0c40766473696e612e7275",
-  "at": "2026-11-20T23:00:57+03:00"
- },
- {
-  "link": "tg://proxy?server=sapphireaurora.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9473617070686972656175726f72612e76656c76657477696e646f772e6363",
-  "at": "2026-11-20T23:00:57+03:00"
- },
- {
-  "link": "tg://proxy?server=skill-issue.top&port=853&secret=ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b",
-  "at": "2026-11-20T23:00:57+03:00"
- },
- {
   "link": "tg://proxy?server=thunder.heronglade.space&port=443&secret=eecb583feec28443b065f8a1f3df502eea786170692e6f7a6f6e2e7275",
   "at": "2026-11-21T01:00:57+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=he.fi.2.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
   "at": "2026-11-21T07:00:54+03:00"
+ },
+ {
+  "link": "tg://proxy?server=eagle.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275",
+  "at": "2026-11-21T08:00:56+03:00"
+ },
+ {
+  "link": "tg://proxy?server=fast.mishutkin.click&port=443&secret=eef767ebee5708dadc985d58ad6e04560664726976652e676f6f676c652e636f6d",
+  "at": "2026-11-21T08:00:56+03:00"
+ },
+ {
+  "link": "tg://proxy?server=milo44.mosswren.vip&port=443&secret=eefd9a9e2ac2851ddc327fe5971e25a87d6d696c6f34342e6d6f73737772656e2e766970",
+  "at": "2026-11-21T08:00:56+03:00"
+ },
+ {
+  "link": "tg://proxy?server=rade48.sorrelbay.xyz&port=443&secret=ee8a22a2efc31d03cfe33e7dc2abb809db617669746f2e7275",
+  "at": "2026-11-21T08:00:56+03:00"
  }
 ]
