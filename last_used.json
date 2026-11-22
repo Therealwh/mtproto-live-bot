@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=crest.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275",
-  "at": "2026-11-22T04:00:55+03:00"
- },
- {
-  "link": "tg://proxy?server=130.210.28.61&port=8443&secret=ee93347c71bba50740c51ae7052ed6b9e3636c6f7564666c6172652e636f6d",
-  "at": "2026-11-22T04:00:55+03:00"
- },
- {
-  "link": "tg://proxy?server=blue.golgoli2.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
-  "at": "2026-11-22T04:00:55+03:00"
- },
- {
-  "link": "tg://proxy?server=astra.tealbriar.xyz&port=8443&secret=ee161a50ae8c2609a3df6daa30ca2dfb9f786170692e6f7a6f6e2e7275",
-  "at": "2026-11-22T04:00:55+03:00"
- },
- {
   "link": "tg://proxy?server=ponyzo32.tidelark.cc&port=443&secret=eeb8e5365580b9ad3c2ee355dfcbc245e5706f6e797a6f33322e746964656c61726b2e6363",
   "at": "2026-11-22T05:00:55+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=deminy60.foxglade.xyz&port=8443&secret=ee899032aa75159cc1d735f15e7a0e3a6e706574726f766963682e7275",
   "at": "2026-11-22T11:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=lilythistle.heronglade.space&port=8443&secret=eef34d88320a4d0b6e8aaf11541681dd7c786170692e6f7a6f6e2e7275",
+  "at": "2026-11-22T12:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=raleto69.fernlark.xyz&port=443&secret=ee8ac4f89d6036e07f6ff9e00b1699819e706574726f766963682e7275",
+  "at": "2026-11-22T12:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+  "at": "2026-11-22T12:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+  "at": "2026-11-22T12:00:57+03:00"
  }
 ]
