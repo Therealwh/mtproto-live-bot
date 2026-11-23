@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=intercom.mope.stoppage.teleseryestv.com&port=443&secret=eee9b3d6538064741ec64e9611e309065a647a656e2e7275",
-  "at": "2026-11-23T14:01:02+03:00"
- },
- {
-  "link": "tg://proxy?server=nypo94.mosswren.vip&port=443&secret=ee24c8636b7e946779a023ee708370719b6e79706f39342e6d6f73737772656e2e766970",
-  "at": "2026-11-23T14:01:02+03:00"
- },
- {
-  "link": "tg://proxy?server=loga85.tidelark.cc&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6c6f676138352e746964656c61726b2e6363",
-  "at": "2026-11-23T14:01:02+03:00"
- },
- {
-  "link": "tg://proxy?server=razori60.mosswren.vip&port=443&secret=eea02849a55daccdc7f7a05691b7ef7cd172617a6f726936302e6d6f73737772656e2e766970",
-  "at": "2026-11-23T14:01:02+03:00"
- },
- {
   "link": "tg://proxy?server=79.137.196.223&port=12443&secret=eebc63866dd7a052dbd741a691486a82127777772e636c6f7564666c6172652e636f6d",
   "at": "2026-11-23T15:00:57+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=89.124.95.185&port=8443&secret=ee6403877430086085167456439119957338392e3132342e39352e313835",
   "at": "2026-11-23T21:00:58+03:00"
+ },
+ {
+  "link": "tg://proxy?server=he.de-fa.1.mtproto.ru&port=443&secret=ee2111222233334444555566667777888862726f777365722e79616e6465782e636f6d",
+  "at": "2026-11-23T22:00:58+03:00"
+ },
+ {
+  "link": "tg://proxy?server=172.65.119.133&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
+  "at": "2026-11-23T22:00:58+03:00"
+ },
+ {
+  "link": "tg://proxy?server=permiiium.lavazemi2.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
+  "at": "2026-11-23T22:00:58+03:00"
+ },
+ {
+  "link": "tg://proxy?server=raleto69.fernlark.xyz&port=443&secret=ee8ac4f89d6036e07f6ff9e00b1699819e706574726f766963682e7275",
+  "at": "2026-11-23T22:00:58+03:00"
  }
 ]
