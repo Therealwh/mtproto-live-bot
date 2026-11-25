@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=beest-sellerst.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-  "at": "2026-11-25T07:00:52+03:00"
- },
- {
-  "link": "tg://proxy?server=rade48.sorrelbay.xyz&port=443&secret=ee8a22a2efc31d03cfe33e7dc2abb809db617669746f2e7275",
-  "at": "2026-11-25T07:00:52+03:00"
- },
- {
-  "link": "tg://proxy?server=suodbo.co.uk&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
-  "at": "2026-11-25T07:00:52+03:00"
- },
- {
-  "link": "tg://proxy?server=pine.tealbriar.xyz&port=8443&secret=ee161a50ae8c2609a3df6daa30ca2dfb9f786170692e6f7a6f6e2e7275",
-  "at": "2026-11-25T07:00:52+03:00"
- },
- {
   "link": "tg://proxy?server=strait-of-hormuz.ir.jursdheks.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
   "at": "2026-11-25T08:00:52+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=mami99.birchquay.xyz&port=443&secret=ee920a4026fcc79354d87c30db9280e5786d616d6939392e6269726368717561792e78797a",
   "at": "2026-11-25T14:01:01+03:00"
+ },
+ {
+  "link": "tg://proxy?server=nema75.kelpmoor.xyz&port=443&secret=ee3766caef3a1312832d053fae6706c1d86f7a6f6e2e7275",
+  "at": "2026-11-25T15:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=rile85.mosswren.vip&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd2072696c6538352e6d6f73737772656e2e766970",
+  "at": "2026-11-25T15:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=polar.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94706f6c61722e7061706572746561706f742e636f6d",
+  "at": "2026-11-25T15:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=neka18.ashwren.xyz&port=443&secret=ee0a3c55c05f348a0fc2c17b373f9a9157786170692e6f7a6f6e2e7275",
+  "at": "2026-11-25T15:00:57+03:00"
  }
 ]
