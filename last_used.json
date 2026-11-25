@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=87.248.129.16&port=8443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-  "at": "2026-11-25T00:00:55+03:00"
- },
- {
-  "link": "tg://proxy?server=echo.tealbriar.xyz&port=8443&secret=eed8e23b55798e53b64877d42e6ef94a3f64726976652e676f6f676c652e636f6d",
-  "at": "2026-11-25T00:00:55+03:00"
- },
- {
-  "link": "tg://proxy?server=male61.birchquay.xyz&port=443&secret=eeb8e5365580b9ad3c2ee355dfcbc245e56d616c6536312e6269726368717561792e78797a",
-  "at": "2026-11-25T00:00:55+03:00"
- },
- {
-  "link": "tg://proxy?server=156.229.167.222&port=5201&secret=ee3a51554a1c8542cc36572fd59c2f63f4617a7572652e6d6963726f736f66742e636f6d",
-  "at": "2026-11-25T00:00:55+03:00"
- },
- {
   "link": "tg://proxy?server=156.229.164.62&port=5202&secret=ee6ca8e315abf7fb512ec858e61679a9e8617a7572652e6d6963726f736f66742e636f6d",
   "at": "2026-11-25T01:00:55+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=pine.tealbriar.xyz&port=8443&secret=ee161a50ae8c2609a3df6daa30ca2dfb9f786170692e6f7a6f6e2e7275",
   "at": "2026-11-25T07:00:52+03:00"
+ },
+ {
+  "link": "tg://proxy?server=strait-of-hormuz.ir.jursdheks.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
+  "at": "2026-11-25T08:00:52+03:00"
+ },
+ {
+  "link": "tg://proxy?server=olivesail.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946f6c6976657361696c2e76656c76657477696e646f772e6363",
+  "at": "2026-11-25T08:00:52+03:00"
+ },
+ {
+  "link": "tg://proxy?server=newshound.preoccupation.zymase.teleseryeme.com&port=443&secret=eed206530067b67e52d66c1b7ee9b481ef647a656e2e7275",
+  "at": "2026-11-25T08:00:52+03:00"
+ },
+ {
+  "link": "tg://proxy?server=popora96.ashwren.xyz&port=443&secret=ee71184e2ac505ed5840dd5a00da3318f3706574726f766963682e7275",
+  "at": "2026-11-25T08:00:52+03:00"
  }
 ]
