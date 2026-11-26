@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=makama85.mosswren.vip&port=443&secret=eeb8e5365580b9ad3c2ee355dfcbc245e56d616b616d6138352e6d6f73737772656e2e766970",
-  "at": "2026-11-26T10:01:03+03:00"
- },
- {
-  "link": "tg://proxy?server=maple.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946d61706c652e76656c76657477696e646f772e6363",
-  "at": "2026-11-26T10:01:03+03:00"
- },
- {
-  "link": "tg://proxy?server=demaga57.tidelark.cc&port=443&secret=ee9267d78681726d5ff1bf826b750ba4ba64656d61676135372e746964656c61726b2e6363",
-  "at": "2026-11-26T10:01:03+03:00"
- },
- {
-  "link": "tg://proxy?server=79.137.196.223&port=15443&secret=ee5d739d0cab70b86961816e3a9c27d4c17777772e636c6f7564666c6172652e636f6d",
-  "at": "2026-11-26T10:01:03+03:00"
- },
- {
   "link": "tg://proxy?server=wbs.regmail.org&port=443&secret=ee5610dcb9c93a1c5dd38d965b0462ad2c7762732e7265676d61696c2e6f7267",
   "at": "2026-11-26T11:00:57+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=dunelumen.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9464756e656c756d656e2e76656c76657477696e646f772e6363",
   "at": "2026-11-26T17:01:06+03:00"
+ },
+ {
+  "link": "tg://proxy?server=work.mishutkin.click&port=443&secret=ee61947a32dca6f584a2772676b4b46924776f726b2e6d69736875746b696e2e636c69636b",
+  "at": "2026-11-26T18:01:03+03:00"
+ },
+ {
+  "link": "tg://proxy?server=raga77.tidalbirch.sbs&port=443&secret=eefd9a9e2ac2851ddc327fe5971e25a87d7261676137372e746964616c62697263682e736273",
+  "at": "2026-11-26T18:01:03+03:00"
+ },
+ {
+  "link": "tg://proxy?server=rimira82.ashwren.xyz&port=443&secret=eed9f17e3daed2eba291d36ea30d9aded862726f777365722e79616e6465782e7275",
+  "at": "2026-11-26T18:01:03+03:00"
+ },
+ {
+  "link": "tg://proxy?server=nypo94.mosswren.vip&port=443&secret=ee24c8636b7e946779a023ee708370719b6e79706f39342e6d6f73737772656e2e766970",
+  "at": "2026-11-26T18:01:03+03:00"
  }
 ]
