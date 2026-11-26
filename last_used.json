@@ -1,21 +1,5 @@
 [
  {
-  "link": "tg://proxy?server=work.mishutkin.click&port=443&secret=ee61947a32dca6f584a2772676b4b46924776f726b2e6d69736875746b696e2e636c69636b",
-  "at": "2026-11-26T18:01:03+03:00"
- },
- {
-  "link": "tg://proxy?server=raga77.tidalbirch.sbs&port=443&secret=eefd9a9e2ac2851ddc327fe5971e25a87d7261676137372e746964616c62697263682e736273",
-  "at": "2026-11-26T18:01:03+03:00"
- },
- {
-  "link": "tg://proxy?server=rimira82.ashwren.xyz&port=443&secret=eed9f17e3daed2eba291d36ea30d9aded862726f777365722e79616e6465782e7275",
-  "at": "2026-11-26T18:01:03+03:00"
- },
- {
-  "link": "tg://proxy?server=nypo94.mosswren.vip&port=443&secret=ee24c8636b7e946779a023ee708370719b6e79706f39342e6d6f73737772656e2e766970",
-  "at": "2026-11-26T18:01:03+03:00"
- },
- {
   "link": "tg://proxy?server=mehrsam.org&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
   "at": "2026-11-26T19:00:58+03:00"
  },
@@ -126,5 +110,21 @@
  {
   "link": "tg://proxy?server=prater.shoeblack.sunny.teleseryepinoytv.com&port=443&secret=eedd184c9cc739c88d2c2e9fa110ca6281647a656e2e7275",
   "at": "2026-11-27T01:00:57+03:00"
+ },
+ {
+  "link": "tg://proxy?server=216.36.108.1&port=5201&secret=ee497495a13920f0f753e80925c6f9c840617a7572652e6d6963726f736f66742e636f6d",
+  "at": "2026-11-27T02:00:58+03:00"
+ },
+ {
+  "link": "tg://proxy?server=sejil.ir.pqrtgdscin.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d",
+  "at": "2026-11-27T02:00:58+03:00"
+ },
+ {
+  "link": "tg://proxy?server=fable.kelpmoor.xyz&port=8443&secret=ee6fcf868535df2309ee2f6ea5a6563ef9706574726f766963682e7275",
+  "at": "2026-11-27T02:00:58+03:00"
+ },
+ {
+  "link": "tg://proxy?server=ultra.proxynet.tech&port=443&secret=eec5b6dfd5a5f78d29e7eee7aa64aae742756c7472612e70726f78796e65742e74656368",
+  "at": "2026-11-27T02:00:58+03:00"
  }
 ]
